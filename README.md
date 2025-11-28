@@ -5,6 +5,12 @@ The script uses webdriver-manager, so there is no need to manually install Chrom
 
 ---
 
+## Demo
+
+![scraper-demo](assets/demo.gif)
+
+---
+
 ## 🚀 Features
 - Automated Chrome browser session  
 - Closes the initial popup  
